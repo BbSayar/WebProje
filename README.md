@@ -71,7 +71,7 @@ Projeyi bilgisayarınıza klonlamak ve çalıştırmak için şu adımları izle
 
 1. GitHub'dan projeyi klonlayın:  
    ```bash
-   git clone https://github.com/kullaniciadi/sayar-burger.git
+   git clone https://github.com/BbSayar/sayar-burger.git
    
 ## 📞 İletişim
 Bu proje hakkında görüşlerinizi paylaşmak ya da destek almak için:
