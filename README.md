@@ -73,7 +73,7 @@ Projeyi bilgisayarınıza klonlamak ve çalıştırmak için şu adımları izle
    ```bash
    git clone https://github.com/kullaniciadi/sayar-burger.git
    
-📞 İletişim](#-iletişim) 
+📞 İletişim
 Bu proje hakkında görüşlerinizi paylaşmak ya da destek almak için:
 
 E-posta: barkinemresayar@gmail.com
