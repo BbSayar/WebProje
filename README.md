@@ -33,16 +33,16 @@ Ana sayfa, web sitesinin tüm bölümlerine genel bir bakış sağlar.
 
 ### Menü  
 Menümüz üç ana kategoriye ayrılmıştır:  
-- **Burgerler:** En sevilen hamburger çeşitlerimiz.  
+- **Burgerler:** Çok beğenilen hamburger çeşitlerimiz.  
 - **Atıştırmalıklar:** Yan ürünler ve aperatifler.  
-- **İçecekler:** Sıcak ve soğuk içeceklerimiz.  
+- **İçecekler:** Soğuk içeceklerimiz.  
 
 ### Rezervasyon  
 - Tarih ve saat belirterek kolayca masa ayırtma imkanı sunar.  
 
 ### Bilgi  
-- **Kampanyalar:** Güncel fırsatlar ve indirimler.  
-- **Duyurular:** Restoranımızdaki yenilikler ve etkinlikler.  
+- **Kampanyalar:** Güncel fırsatlar ve indirimlerden haberdar olursunuz.  
+- **Duyurular:** Restoranımızdaki yenilikler ve genel kültür amaçlı burgerin tarihçesi yer alır.  
 
 ### İletişim  
 - **İrtibat Bilgileri:** Telefon numarası, e-posta adresi gibi iletişim yolları.  
@@ -73,14 +73,14 @@ Projeyi bilgisayarınıza klonlamak ve çalıştırmak için şu adımları izle
    ```bash
    git clone https://github.com/kullaniciadi/sayar-burger.git
    
-📞 İletişim
+## 📞 İletişim
 Bu proje hakkında görüşlerinizi paylaşmak ya da destek almak için:
 
-E-posta: barkinemresayar@gmail.com
-LinkedIn: Barkın Emre Sayar
-Instagram: Sayar Burger
+- **E-posta:** barkinemresayar@gmail.com
+- **LinkedIn:** Barkın Emre Sayar
+- **Instagram:** bbarkinsyr
 
-📜 Lisans
-Bu proje, kişisel kullanım içindir ve izinsiz dağıtılamaz.
+## 📜 Lisans
+- Bu proje, kişisel kullanım içindir ve izinsiz dağıtılamaz.
 
 
