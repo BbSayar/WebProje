@@ -78,7 +78,6 @@ Bu proje hakkında görüşlerinizi paylaşmak ya da destek almak için:
 
 - **E-posta:** barkinemresayar@gmail.com
 - **LinkedIn:** Barkın Emre Sayar
-- **Instagram:** bbarkinsyr
 
 ## 📜 Lisans
 - Bu proje, kişisel kullanım içindir ve izinsiz dağıtılamaz.
